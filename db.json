@@ -1,12 +1,12 @@
 {
-    "posts": [
+    "afps": [
       {
         "id": 1,
-        "title": "hello"
+        "afp_code": "1",
+        "afp_name": "Prima"
       }
     ],
     "profile": {
       "name": "typicode"
     }
   } 
-  
